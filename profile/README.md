@@ -1,9 +1,12 @@
-Code of Conduct
+## Code of Conduct
 
 We’re excited to have you here!  
 
 ## Who We Are  
-We are **LAWNE**, a group of 5 passionate DevOps students studying Computer Science at **KEA**. Our focus is on mastering DevOps practices, fostering teamwork, and developing innovative solutions through real-world projects.  
+We are **LAWNE**, a group of 5 passionate DevOps students studying Computer Science at **KEA**. Our focus is on mastering DevOps practices, fostering teamwork, and developing innovative solutions through real-world projects.
+
+## Our Pledge
+We, as members of LAWNE at KEA, are committed to creating a welcoming and harassment-free environment for everyone, regardless of age, gender identity, ethnicity, experience level, or other personal attributes.
 
 ## What We Do  
 At LAWNE, we:  
