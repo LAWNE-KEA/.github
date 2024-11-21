@@ -1,1 +1,1 @@
-# .github
+Welcome to LAWNE at KEA
